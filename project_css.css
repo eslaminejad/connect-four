@@ -1,0 +1,23 @@
+.blue{
+  color: white;
+  background-color : #397eed;
+  font-family: sans-serif;
+  text-align:  center;
+}
+.red{
+  color : white;
+  background-color : #c91e32;
+  font-family: sans-serif;
+  text-align:  center;
+}
+
+table{
+  margin:auto;
+}
+
+td{
+  background: gray;
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
